@@ -1,7 +1,7 @@
 # Several_iOSTools
 几个iOS小工具
 ***
-### GradientLabel
+## GradientLabel
 聚光灯扫射文字显示效果
 
 usage
@@ -14,7 +14,7 @@ usage
 
 ![image](https://github.com/kouliang/Several_iOSTools/blob/master/gif/01.gif)
 ***
-### AdView
+## AdView
 两行代码搞定图片轮播
 
 usage
@@ -24,12 +24,12 @@ usage
 	    [self.view addSubview:adview];
 ![image](https://github.com/kouliang/Several_iOSTools/blob/master/gif/02.gif)
 ***
-### QRScan
+## QRScan
 原生二维码扫描器，自带人脸识别功能哦
 
 ![image](https://github.com/kouliang/Several_iOSTools/blob/master/gif/03.gif)
 ***
-### TagView
+## TagView
 快速为你的view添加标签，自动换行，还具备单选功能
 
 usage
