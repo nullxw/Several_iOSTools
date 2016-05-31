@@ -34,7 +34,7 @@ usage
 
 usage
 -
-	NSArray *titles = @[@"奥迪",@"比亚迪",@"龙",@"一汽大众"];
+	NSArray *titles = @[@"奥迪",@"比亚迪",@"特斯拉",@"一汽大众",@"雷克萨斯"];
 	    KLTagView *tagView = [[KLTagView alloc]initWithTitles:titles width:200];
 	    CGSize size = [tagView getContentSize];
 	    tagView.frame = CGRectMake(0, 0, size.width, size.height);
